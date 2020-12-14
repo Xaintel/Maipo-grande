@@ -1,0 +1,6 @@
+C:\Users\xaint\source\repos\IniLogin\Data\bin\Debug\Data.dll
+C:\Users\xaint\source\repos\IniLogin\Data\bin\Debug\Data.pdb
+C:\Users\xaint\source\repos\IniLogin\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\xaint\source\repos\IniLogin\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\xaint\source\repos\IniLogin\Data\obj\Debug\Data.dll
+C:\Users\xaint\source\repos\IniLogin\Data\obj\Debug\Data.pdb

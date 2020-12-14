@@ -1,0 +1,12 @@
+C:\Users\xaint\source\repos\IniLogin\Dominio\obj\Debug\netstandard2.0\Dominio.csprojAssemblyReference.cache
+C:\Users\xaint\source\repos\IniLogin\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\xaint\source\repos\IniLogin\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfo.cs
+C:\Users\xaint\source\repos\IniLogin\Dominio\obj\Debug\netstandard2.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\xaint\source\repos\IniLogin\Dominio\bin\Debug\netstandard2.0\Dominio.deps.json
+C:\Users\xaint\source\repos\IniLogin\Dominio\bin\Debug\netstandard2.0\Dominio.dll
+C:\Users\xaint\source\repos\IniLogin\Dominio\bin\Debug\netstandard2.0\Dominio.pdb
+C:\Users\xaint\source\repos\IniLogin\Dominio\bin\Debug\netstandard2.0\Datos.dll
+C:\Users\xaint\source\repos\IniLogin\Dominio\bin\Debug\netstandard2.0\Datos.pdb
+C:\Users\xaint\source\repos\IniLogin\Dominio\obj\Debug\netstandard2.0\Dominio.csproj.CopyComplete
+C:\Users\xaint\source\repos\IniLogin\Dominio\obj\Debug\netstandard2.0\Dominio.dll
+C:\Users\xaint\source\repos\IniLogin\Dominio\obj\Debug\netstandard2.0\Dominio.pdb

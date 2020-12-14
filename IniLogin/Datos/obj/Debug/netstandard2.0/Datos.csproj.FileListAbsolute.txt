@@ -1,0 +1,9 @@
+C:\Users\xaint\source\repos\IniLogin\Datos\obj\Debug\netstandard2.0\Datos.csprojAssemblyReference.cache
+C:\Users\xaint\source\repos\IniLogin\Datos\obj\Debug\netstandard2.0\Datos.AssemblyInfoInputs.cache
+C:\Users\xaint\source\repos\IniLogin\Datos\obj\Debug\netstandard2.0\Datos.AssemblyInfo.cs
+C:\Users\xaint\source\repos\IniLogin\Datos\obj\Debug\netstandard2.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\xaint\source\repos\IniLogin\Datos\bin\Debug\netstandard2.0\Datos.deps.json
+C:\Users\xaint\source\repos\IniLogin\Datos\bin\Debug\netstandard2.0\Datos.dll
+C:\Users\xaint\source\repos\IniLogin\Datos\bin\Debug\netstandard2.0\Datos.pdb
+C:\Users\xaint\source\repos\IniLogin\Datos\obj\Debug\netstandard2.0\Datos.dll
+C:\Users\xaint\source\repos\IniLogin\Datos\obj\Debug\netstandard2.0\Datos.pdb

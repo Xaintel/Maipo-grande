@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "REf3+n8D6epuiKsxfmIDHGpq5/KTnS2bHEyGsm5d3e54YXYMkQHnEMQArGz6DRvUSfMFxYcV5Qn1kbm6DhZgKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xaint\\source\\repos\\IniLogin\\Dominio\\Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xaint\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\xaint\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
