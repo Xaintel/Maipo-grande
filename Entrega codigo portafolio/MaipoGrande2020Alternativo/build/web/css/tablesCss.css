@@ -1,0 +1,64 @@
+h1{
+    font-size: 20px;
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+    text-align: left;
+    margin-top: 30px;
+    font-weight: bold;
+    margin-left: 30px;
+}
+
+.content-table{
+    border-collapse: collapse;
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+    margin: 30px;
+    font-size: 0.9em;
+    width: 95%;
+    border-radius: 5px 5px 0 0;
+    overflow: hidden;
+    box-shadow: 0 0  20px #rgba(0,0,0,0.15);
+    text-align: center;
+}
+
+.content-table thead tr{
+    background-color: #009879;
+    color: #fff;
+    text-align: left;
+    font-weight: bold;
+    text-align: center;
+}
+
+.content-table th,
+.content-table td{
+    padding: 12px 15px;
+}
+
+.content-table tbody tr {
+    border-bottom: 1px solid  #ddd;
+}
+
+.content-table tbody tr:nth-of-type(even){
+    background-color: #cccccc;
+}
+
+
+.content-table tbody tr:last-of-type {
+    border-bottom: 2px solid #009879;
+}
+
+.content-table tbody tr.active-row{
+    font-weight: bold;
+    color: black;
+}
+
+
+
+@media screen and (max-width: 1080px){
+    table{
+        display: block;
+    }
+    table {
+        display:inline-block;
+    }
+}
+
+

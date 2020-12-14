@@ -1,0 +1,169 @@
+body{
+    background: url("../img/fondo.png");
+    background-size: 100vw 100vh;
+    background-attachment: fixed;
+    margin: 0;
+
+}
+
+.form{
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+    width: 550px;
+    height: 90%;
+    margin: auto;
+
+    background: white;
+    padding: 30px;
+    box-sizing: border-box;
+    margin-top: 30px;
+    border-radius: 7px;
+}
+
+.form h2 {
+    color: #000;
+    text-align: center;
+    margin: -20px 0px 0 0;
+    border-radius: 5px;
+    font-size: 25px;
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;;
+    background: #000;
+    color: #fff;
+    padding: 20px;
+}
+
+.form textarea {
+    width: 300px;
+    float: right;
+    text-align: center;
+}
+
+.form input {
+    width: 300px;
+    float: right;
+    text-align: center;
+}
+
+.form select {
+    width: 307px;
+    float: right;
+}
+
+
+
+.form button {
+    font-size: 20px;
+    width: 100%;
+    height: 80px;
+    border: none;
+    background: transparent;
+    border-radius: 5px;
+    color: black;
+    font-weight: bold;
+    outline:none
+}
+
+.form button:hover {
+    font-size: 20px;
+    width: 100%;
+    height: 80px;
+    border: none;
+    background: #ff6666;
+    border-radius: 5px;
+    color: black;
+    font-weight: bold;
+    outline:none
+}
+/* The alert message box */
+.alert {
+    padding: 20px;
+    background-color: #f44336; /* Red */
+    color: white;
+    margin-bottom: 15px;
+}
+
+/* The close button */
+.closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+/* When moving the mouse over the close button */
+.closebtn:hover {
+    color: black;
+} 
+
+
+
+@media screen and (max-width: 1080px){
+    .form{
+
+        font-family: Tahoma;
+        width: 900px;
+        margin: auto;
+        margin-top: 60px;
+    }
+
+    .form h2 {
+        color: #000;
+        text-align: center;
+        margin: -20px 0px 0 0;
+        border-radius: 5px;
+        font-size: 50px;
+        font-family: Courier;
+        background: #000;
+        color: #fff;
+        padding: 20px;
+    }
+
+
+    .form textarea {
+        width: 500px;
+        height: 200px;
+        float: right;
+        text-align: center;
+    }
+
+    .form a{
+        font-size: 28px;
+        margin: auto;
+        font-family: Tahoma;
+
+
+
+    }
+    .form input {
+        width: 500px;
+        height: 60px;
+        float: right;
+        text-align: center;
+        margin-bottom: 5px;
+        font-size: 25px
+    }
+
+    .form select {
+        width: 500px;
+        height: 60px;
+        float: right;
+        font-size: 20px;
+    }
+
+
+
+    .form button {
+        font-size: 20px;
+        width: 100%;
+        height: 80px;
+        border: none;
+        background: transparent;
+        border-radius: 5px;
+        color: black;
+        font-weight: bold;
+        outline:none
+    }
+}
